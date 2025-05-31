@@ -234,6 +234,5 @@ Docker uses OverlayFS for image and container layers.
 
 Shaikh Ahsan
 Learning Docker, Containerization, and DevOps Tools
-📍 From Amravati, India
 
 
